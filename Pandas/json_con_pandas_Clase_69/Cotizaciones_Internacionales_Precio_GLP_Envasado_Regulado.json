@@ -1,0 +1,1647 @@
+﻿[
+{
+	"fecha": "2024-05",
+	"promedio_butano_80_propano_20_": 0.4481,
+	"flete": 0.0228,
+	"brent_dated": 0.5525}
+,{
+	"fecha": "2024-04",
+	"promedio_butano_80_propano_20_": 0.5128,
+	"flete": 0.0186,
+	"brent_dated": 0.611}
+,{
+	"fecha": "2024-03",
+	"promedio_butano_80_propano_20_": 0.5241,
+	"flete": 0.0195,
+	"brent_dated": 0.5731}
+,{
+	"fecha": "2024-02",
+	"promedio_butano_80_propano_20_": 0.4982,
+	"flete": 0.0163,
+	"brent_dated": 0.5663}
+,{
+	"fecha": "2024-01",
+	"promedio_butano_80_propano_20_": 0.4833,
+	"flete": 0.0218,
+	"brent_dated": 0.5356}
+,{
+	"fecha": "2023-12",
+	"promedio_butano_80_propano_20_": 0.4851,
+	"flete": 0.0336,
+	"brent_dated": 0.5223}
+,{
+	"fecha": "2023-11",
+	"promedio_butano_80_propano_20_": 0.4913,
+	"flete": 0.0385,
+	"brent_dated": 0.5605}
+,{
+	"fecha": "2023-10",
+	"promedio_butano_80_propano_20_": 0.5294,
+	"flete": 0.0301,
+	"brent_dated": 0.6278}
+,{
+	"fecha": "2023-09",
+	"promedio_butano_80_propano_20_": 0.5077,
+	"flete": 0.0406,
+	"brent_dated": 0.6408}
+,{
+	"fecha": "2023-08",
+	"promedio_butano_80_propano_20_": 0.4254,
+	"flete": 0.0266,
+	"brent_dated": 0.5753}
+,{
+	"fecha": "2023-07",
+	"promedio_butano_80_propano_20_": 0.3066,
+	"flete": 0.0275,
+	"brent_dated": 0.5272}
+,{
+	"fecha": "2023-06",
+	"promedio_butano_80_propano_20_": 0.3715,
+	"flete": 0.029,
+	"brent_dated": 0.5019}
+,{
+	"fecha": "2023-05",
+	"promedio_butano_80_propano_20_": 0.446,
+	"flete": 0.0254,
+	"brent_dated": 0.5085}
+,{
+	"fecha": "2023-04",
+	"promedio_butano_80_propano_20_": 0.4592,
+	"flete": 0.0212,
+	"brent_dated": 0.5649}
+,{
+	"fecha": "2023-03",
+	"promedio_butano_80_propano_20_": 0.6323,
+	"flete": 0.0256,
+	"brent_dated": 0.5345}
+,{
+	"fecha": "2023-02",
+	"promedio_butano_80_propano_20_": 0.6075,
+	"flete": 0.0256,
+	"brent_dated": 0.5607}
+,{
+	"fecha": "2023-01",
+	"promedio_butano_80_propano_20_": 0.5264,
+	"flete": 0.0215,
+	"brent_dated": 0.5594}
+,{
+	"fecha": "2022-12",
+	"promedio_butano_80_propano_20_": 0.5568,
+	"flete": 0.0357,
+	"brent_dated": 0.5578}
+,{
+	"fecha": "2022-11",
+	"promedio_butano_80_propano_20_": 0.5722,
+	"flete": 0.0369,
+	"brent_dated": 0.6545}
+,{
+	"fecha": "2022-10",
+	"promedio_butano_80_propano_20_": 0.5577,
+	"flete": 0.0269,
+	"brent_dated": 0.6918}
+,{
+	"fecha": "2022-09",
+	"promedio_butano_80_propano_20_": 0.6198,
+	"flete": 0.0224,
+	"brent_dated": 0.6613}
+,{
+	"fecha": "2022-08",
+	"promedio_butano_80_propano_20_": 0.6361,
+	"flete": 0.0192,
+	"brent_dated": 0.7189}
+,{
+	"fecha": "2022-07",
+	"promedio_butano_80_propano_20_": 0.65,
+	"flete": 0.0195,
+	"brent_dated": 0.8064}
+,{
+	"fecha": "2022-06",
+	"promedio_butano_80_propano_20_": 0.7609,
+	"flete": 0.0214,
+	"brent_dated": 0.8522}
+,{
+	"fecha": "2022-05",
+	"promedio_butano_80_propano_20_": 0.7705,
+	"flete": 0.0214,
+	"brent_dated": 0.7781}
+,{
+	"fecha": "2022-04",
+	"promedio_butano_80_propano_20_": 0.8424,
+	"flete": 0.0189,
+	"brent_dated": 0.7042}
+,{
+	"fecha": "2022-03",
+	"promedio_butano_80_propano_20_": 0.7709,
+	"flete": 0.016,
+	"brent_dated": 0.7853}
+,{
+	"fecha": "2022-02",
+	"promedio_butano_80_propano_20_": 0.6853,
+	"flete": 0.0131,
+	"brent_dated": 0.6305}
+,{
+	"fecha": "2022-01",
+	"promedio_butano_80_propano_20_": 0.6267,
+	"flete": 0.0175,
+	"brent_dated": 0.5583}
+,{
+	"fecha": "2021-12",
+	"promedio_butano_80_propano_20_": 0.6315,
+	"flete": 0.0175,
+	"brent_dated": 0.4781}
+,{
+	"fecha": "2021-11",
+	"promedio_butano_80_propano_20_": 0.718,
+	"flete": 0.0163,
+	"brent_dated": 0.5197}
+,{
+	"fecha": "2021-10",
+	"promedio_butano_80_propano_20_": 0.6473,
+	"flete": 0.0129,
+	"brent_dated": 0.5252}
+,{
+	"fecha": "2021-09",
+	"promedio_butano_80_propano_20_": 0.5621,
+	"flete": 0.0114,
+	"brent_dated": 0.4615}
+,{
+	"fecha": "2021-08",
+	"promedio_butano_80_propano_20_": 0.5442,
+	"flete": 0.0124,
+	"brent_dated": 0.4384}
+,{
+	"fecha": "2021-07",
+	"promedio_butano_80_propano_20_": 0.5057,
+	"flete": 0.0122,
+	"brent_dated": 0.4623}
+,{
+	"fecha": "2021-06",
+	"promedio_butano_80_propano_20_": 0.4056,
+	"flete": 0.0133,
+	"brent_dated": 0.4416}
+,{
+	"fecha": "2021-05",
+	"promedio_butano_80_propano_20_": 0.3769,
+	"flete": 0.0155,
+	"brent_dated": 0.412}
+,{
+	"fecha": "2021-04",
+	"promedio_butano_80_propano_20_": 0.4211,
+	"flete": 0.0142,
+	"brent_dated": 0.392}
+,{
+	"fecha": "2021-03",
+	"promedio_butano_80_propano_20_": 0.4485,
+	"flete": 0.0111,
+	"brent_dated": 0.4017}
+,{
+	"fecha": "2021-02",
+	"promedio_butano_80_propano_20_": 0.4112,
+	"flete": 0.0109,
+	"brent_dated": 0.3746}
+,{
+	"fecha": "2021-01",
+	"promedio_butano_80_propano_20_": 0.3926,
+	"flete": 0.0225,
+	"brent_dated": 0.327}
+,{
+	"fecha": "2020-12",
+	"promedio_butano_80_propano_20_": 0.3314,
+	"flete": 0.0248,
+	"brent_dated": 0.2987}
+,{
+	"fecha": "2020-11",
+	"promedio_butano_80_propano_20_": 0.3263,
+	"flete": 0.0177,
+	"brent_dated": 0.2625}
+,{
+	"fecha": "2020-10",
+	"promedio_butano_80_propano_20_": 0.3123,
+	"flete": 0.0165,
+	"brent_dated": 0.2484}
+,{
+	"fecha": "2020-09",
+	"promedio_butano_80_propano_20_": 0.2801,
+	"flete": 0.0154,
+	"brent_dated": 0.252}
+,{
+	"fecha": "2020-08",
+	"promedio_butano_80_propano_20_": 0.2542,
+	"flete": 0.0166,
+	"brent_dated": 0.276}
+,{
+	"fecha": "2020-07",
+	"promedio_butano_80_propano_20_": 0.2778,
+	"flete": 0.0133,
+	"brent_dated": 0.2755}
+,{
+	"fecha": "2020-06",
+	"promedio_butano_80_propano_20_": 0.216,
+	"flete": 0.0121,
+	"brent_dated": 0.2593}
+,{
+	"fecha": "2020-05",
+	"promedio_butano_80_propano_20_": 0.1726,
+	"flete": 0.0161,
+	"brent_dated": 0.1936}
+,{
+	"fecha": "2020-04",
+	"promedio_butano_80_propano_20_": 0.1315,
+	"flete": 0.0197,
+	"brent_dated": 0.1275}
+,{
+	"fecha": "2020-03",
+	"promedio_butano_80_propano_20_": 0.3394,
+	"flete": 0.0186,
+	"brent_dated": 0.2095}
+,{
+	"fecha": "2020-02",
+	"promedio_butano_80_propano_20_": 0.412,
+	"flete": 0.0233,
+	"brent_dated": 0.3703}
+,{
+	"fecha": "2020-01",
+	"promedio_butano_80_propano_20_": 0.4169,
+	"flete": 0.0241,
+	"brent_dated": 0.4176}
+,{
+	"fecha": "2019-12",
+	"promedio_butano_80_propano_20_": 0.3947,
+	"flete": 0.0239,
+	"brent_dated": 0.4402}
+,{
+	"fecha": "2019-11",
+	"promedio_butano_80_propano_20_": 0.3811,
+	"flete": 0.0262,
+	"brent_dated": 0.4153}
+,{
+	"fecha": "2019-10",
+	"promedio_butano_80_propano_20_": 0.3436,
+	"flete": 0.0252,
+	"brent_dated": 0.3935}
+,{
+	"fecha": "2019-09",
+	"promedio_butano_80_propano_20_": 0.2755,
+	"flete": 0.022,
+	"brent_dated": 0.4155}
+,{
+	"fecha": "2019-08",
+	"promedio_butano_80_propano_20_": 0.2596,
+	"flete": 0.0218,
+	"brent_dated": 0.3861}
+,{
+	"fecha": "2019-07",
+	"promedio_butano_80_propano_20_": 0.2998,
+	"flete": 0.0225,
+	"brent_dated": 0.4158}
+,{
+	"fecha": "2019-06",
+	"promedio_butano_80_propano_20_": 0.3336,
+	"flete": 0.0223,
+	"brent_dated": 0.4134}
+,{
+	"fecha": "2019-05",
+	"promedio_butano_80_propano_20_": 0.4083,
+	"flete": 0.0184,
+	"brent_dated": 0.4626}
+,{
+	"fecha": "2019-04",
+	"promedio_butano_80_propano_20_": 0.4125,
+	"flete": 0.018,
+	"brent_dated": 0.4617}
+,{
+	"fecha": "2019-03",
+	"promedio_butano_80_propano_20_": 0.4185,
+	"flete": 0.0135,
+	"brent_dated": 0.4261}
+,{
+	"fecha": "2019-02",
+	"promedio_butano_80_propano_20_": 0.3714,
+	"flete": 0.0122,
+	"brent_dated": 0.4109}
+,{
+	"fecha": "2019-01",
+	"promedio_butano_80_propano_20_": 0.3204,
+	"flete": 0.0131,
+	"brent_dated": 0.3768}
+,{
+	"fecha": "2018-12",
+	"promedio_butano_80_propano_20_": 0.3283,
+	"flete": 0.0144,
+	"brent_dated": 0.3593}
+,{
+	"fecha": "2018-11",
+	"promedio_butano_80_propano_20_": 0.452,
+	"flete": 0.0146,
+	"brent_dated": 0.4148}
+,{
+	"fecha": "2018-10",
+	"promedio_butano_80_propano_20_": 0.5621,
+	"flete": 0.0167,
+	"brent_dated": 0.5147}
+,{
+	"fecha": "2018-09",
+	"promedio_butano_80_propano_20_": 0.5124,
+	"flete": 0.0153,
+	"brent_dated": 0.4926}
+,{
+	"fecha": "2018-08",
+	"promedio_butano_80_propano_20_": 0.486,
+	"flete": 0.0154,
+	"brent_dated": 0.4587}
+,{
+	"fecha": "2018-07",
+	"promedio_butano_80_propano_20_": 0.4576,
+	"flete": 0.0142,
+	"brent_dated": 0.4634}
+,{
+	"fecha": "2018-06",
+	"promedio_butano_80_propano_20_": 0.4566,
+	"flete": 0.013,
+	"brent_dated": 0.4635}
+,{
+	"fecha": "2018-05",
+	"promedio_butano_80_propano_20_": 0.4037,
+	"flete": 0.012,
+	"brent_dated": 0.4736}
+,{
+	"fecha": "2018-04",
+	"promedio_butano_80_propano_20_": 0.365,
+	"flete": 0.0103,
+	"brent_dated": 0.4247}
+,{
+	"fecha": "2018-03",
+	"promedio_butano_80_propano_20_": 0.3535,
+	"flete": 0.0104,
+	"brent_dated": 0.3895}
+,{
+	"fecha": "2018-02",
+	"promedio_butano_80_propano_20_": 0.3896,
+	"flete": 0.0113,
+	"brent_dated": 0.3845}
+,{
+	"fecha": "2018-01",
+	"promedio_butano_80_propano_20_": 0.4324,
+	"flete": 0.0116,
+	"brent_dated": 0.4123}
+,{
+	"fecha": "2017-12",
+	"promedio_butano_80_propano_20_": 0.4491,
+	"flete": 0.0128,
+	"brent_dated": 0.3951}
+,{
+	"fecha": "2017-11",
+	"promedio_butano_80_propano_20_": 0.4458,
+	"flete": 0.0128,
+	"brent_dated": 0.3885}
+,{
+	"fecha": "2017-10",
+	"promedio_butano_80_propano_20_": 0.4409,
+	"flete": 0.015,
+	"brent_dated": 0.3554}
+,{
+	"fecha": "2017-09",
+	"promedio_butano_80_propano_20_": 0.3937,
+	"flete": 0.0133,
+	"brent_dated": 0.3426}
+,{
+	"fecha": "2017-08",
+	"promedio_butano_80_propano_20_": 0.3408,
+	"flete": 0.012,
+	"brent_dated": 0.3187}
+,{
+	"fecha": "2017-07",
+	"promedio_butano_80_propano_20_": 0.2694,
+	"flete": 0.0153,
+	"brent_dated": 0.3073}
+,{
+	"fecha": "2017-06",
+	"promedio_butano_80_propano_20_": 0.312,
+	"flete": 0.0167,
+	"brent_dated": 0.3017}
+,{
+	"fecha": "2017-05",
+	"promedio_butano_80_propano_20_": 0.3096,
+	"flete": 0.0172,
+	"brent_dated": 0.3324}
+,{
+	"fecha": "2017-04",
+	"promedio_butano_80_propano_20_": 0.3452,
+	"flete": 0.0187,
+	"brent_dated": 0.3585}
+,{
+	"fecha": "2017-03",
+	"promedio_butano_80_propano_20_": 0.4367,
+	"flete": 0.0187,
+	"brent_dated": 0.3515}
+,{
+	"fecha": "2017-02",
+	"promedio_butano_80_propano_20_": 0.4515,
+	"flete": 0.0179,
+	"brent_dated": 0.3772}
+,{
+	"fecha": "2017-01",
+	"promedio_butano_80_propano_20_": 0.3951,
+	"flete": 0.0188,
+	"brent_dated": 0.3752}
+,{
+	"fecha": "2016-12",
+	"promedio_butano_80_propano_20_": 0.3492,
+	"flete": 0.018,
+	"brent_dated": 0.3703}
+,{
+	"fecha": "2016-11",
+	"promedio_butano_80_propano_20_": 0.3455,
+	"flete": 0.0176,
+	"brent_dated": 0.3049}
+,{
+	"fecha": "2016-10",
+	"promedio_butano_80_propano_20_": 0.3156,
+	"flete": 0.0163,
+	"brent_dated": 0.328}
+,{
+	"fecha": "2016-09",
+	"promedio_butano_80_propano_20_": 0.2784,
+	"flete": 0.015,
+	"brent_dated": 0.3032}
+,{
+	"fecha": "2016-08",
+	"promedio_butano_80_propano_20_": 0.2291,
+	"flete": 0.0148,
+	"brent_dated": 0.2984}
+,{
+	"fecha": "2016-07",
+	"promedio_butano_80_propano_20_": 0.2718,
+	"flete": 0.0168,
+	"brent_dated": 0.2968}
+,{
+	"fecha": "2016-06",
+	"promedio_butano_80_propano_20_": 0.2609,
+	"flete": 0.0178,
+	"brent_dated": 0.3135}
+,{
+	"fecha": "2016-05",
+	"promedio_butano_80_propano_20_": 0.2635,
+	"flete": 0.0177,
+	"brent_dated": 0.3021}
+,{
+	"fecha": "2016-04",
+	"promedio_butano_80_propano_20_": 0.2482,
+	"flete": 0.0175,
+	"brent_dated": 0.2664}
+,{
+	"fecha": "2016-03",
+	"promedio_butano_80_propano_20_": 0.24,
+	"flete": 0.0198,
+	"brent_dated": 0.2526}
+,{
+	"fecha": "2016-02",
+	"promedio_butano_80_propano_20_": 0.2381,
+	"flete": 0.0215,
+	"brent_dated": 0.2132}
+,{
+	"fecha": "2016-01",
+	"promedio_butano_80_propano_20_": 0.2937,
+	"flete": 0.0258,
+	"brent_dated": 0.2075}
+,{
+	"fecha": "2015-12",
+	"promedio_butano_80_propano_20_": 0.3403,
+	"flete": 0.0331,
+	"brent_dated": 0.2552}
+,{
+	"fecha": "2015-11",
+	"promedio_butano_80_propano_20_": 0.3379,
+	"flete": 0.0306,
+	"brent_dated": 0.3005}
+,{
+	"fecha": "2015-10",
+	"promedio_butano_80_propano_20_": 0.3186,
+	"flete": 0.031,
+	"brent_dated": 0.3148}
+,{
+	"fecha": "2015-09",
+	"promedio_butano_80_propano_20_": 0.2409,
+	"flete": 0.034,
+	"brent_dated": 0.309}
+,{
+	"fecha": "2015-08",
+	"promedio_butano_80_propano_20_": 0.2666,
+	"flete": 0.0356,
+	"brent_dated": 0.3055}
+,{
+	"fecha": "2015-07",
+	"promedio_butano_80_propano_20_": 0.3117,
+	"flete": 0.0413,
+	"brent_dated": 0.3745}
+,{
+	"fecha": "2015-06",
+	"promedio_butano_80_propano_20_": 0.3116,
+	"flete": 0.0453,
+	"brent_dated": 0.4007}
+,{
+	"fecha": "2015-05",
+	"promedio_butano_80_propano_20_": 0.3656,
+	"flete": 0.0427,
+	"brent_dated": 0.4202}
+,{
+	"fecha": "2015-04",
+	"promedio_butano_80_propano_20_": 0.3915,
+	"flete": 0.0399,
+	"brent_dated": 0.4004}
+,{
+	"fecha": "2015-03",
+	"promedio_butano_80_propano_20_": 0.4171,
+	"flete": 0.0461,
+	"brent_dated": 0.3758}
+,{
+	"fecha": "2015-02",
+	"promedio_butano_80_propano_20_": 0.3416,
+	"flete": 0.0978,
+	"brent_dated": 0.373}
+,{
+	"fecha": "2015-01",
+	"promedio_butano_80_propano_20_": 0.3448,
+	"flete": 0.074,
+	"brent_dated": 0.302}
+,{
+	"fecha": "2014-12",
+	"promedio_butano_80_propano_20_": 0.4371,
+	"flete": 0.0689,
+	"brent_dated": 0.3673}
+,{
+	"fecha": "2014-11",
+	"promedio_butano_80_propano_20_": 0.4578,
+	"flete": 0.0826,
+	"brent_dated": 0.4607}
+,{
+	"fecha": "2014-10",
+	"promedio_butano_80_propano_20_": 0.5677,
+	"flete": 0.0876,
+	"brent_dated": 0.5023}
+,{
+	"fecha": "2014-09",
+	"promedio_butano_80_propano_20_": 0.5779,
+	"flete": 0.0922,
+	"brent_dated": 0.5493}
+,{
+	"fecha": "2014-08",
+	"promedio_butano_80_propano_20_": 0.5838,
+	"flete": 0.0901,
+	"brent_dated": 0.5555}
+,{
+	"fecha": "2014-07",
+	"promedio_butano_80_propano_20_": 0.5995,
+	"flete": 0.1064,
+	"brent_dated": 0.5736}
+,{
+	"fecha": "2014-06",
+	"promedio_butano_80_propano_20_": 0.5726,
+	"flete": 0.0942,
+	"brent_dated": 0.5983}
+,{
+	"fecha": "2014-05",
+	"promedio_butano_80_propano_20_": 0.5616,
+	"flete": 0.0743,
+	"brent_dated": 0.5817}
+,{
+	"fecha": "2014-04",
+	"promedio_butano_80_propano_20_": 0.5843,
+	"flete": 0.0956,
+	"brent_dated": 0.5681}
+,{
+	"fecha": "2014-03",
+	"promedio_butano_80_propano_20_": 0.6045,
+	"flete": 0.0564,
+	"brent_dated": 0.5667}
+,{
+	"fecha": "2014-02",
+	"promedio_butano_80_propano_20_": 0.6656,
+	"flete": 0.0417,
+	"brent_dated": 0.5805}
+,{
+	"fecha": "2014-01",
+	"promedio_butano_80_propano_20_": 0.7262,
+	"flete": 0.0514,
+	"brent_dated": 0.5798}
+,{
+	"fecha": "2013-12",
+	"promedio_butano_80_propano_20_": 0.7844,
+	"flete": 0.0496,
+	"brent_dated": 0.5892}
+,{
+	"fecha": "2013-11",
+	"promedio_butano_80_propano_20_": 0.6421,
+	"flete": 0.0548,
+	"brent_dated": 0.5828}
+,{
+	"fecha": "2013-10",
+	"promedio_butano_80_propano_20_": 0.609,
+	"flete": 0.055,
+	"brent_dated": 0.5825}
+,{
+	"fecha": "2013-09",
+	"promedio_butano_80_propano_20_": 0.6495,
+	"flete": 0.0622,
+	"brent_dated": 0.6106}
+,{
+	"fecha": "2013-08",
+	"promedio_butano_80_propano_20_": 0.6095,
+	"flete": 0.0661,
+	"brent_dated": 0.6089}
+,{
+	"fecha": "2013-07",
+	"promedio_butano_80_propano_20_": 0.5915,
+	"flete": 0.065,
+	"brent_dated": 0.6011}
+,{
+	"fecha": "2013-06",
+	"promedio_butano_80_propano_20_": 0.5576,
+	"flete": 0.0667,
+	"brent_dated": 0.5683}
+,{
+	"fecha": "2013-05",
+	"promedio_butano_80_propano_20_": 0.5604,
+	"flete": 0.057,
+	"brent_dated": 0.5752}
+,{
+	"fecha": "2013-04",
+	"promedio_butano_80_propano_20_": 0.615,
+	"flete": 0.0399,
+	"brent_dated": 0.5713}
+,{
+	"fecha": "2013-03",
+	"promedio_butano_80_propano_20_": 0.6849,
+	"flete": 0.0401,
+	"brent_dated": 0.6086}
+,{
+	"fecha": "2013-02",
+	"promedio_butano_80_propano_20_": 0.671,
+	"flete": 0.0397,
+	"brent_dated": 0.634}
+,{
+	"fecha": "2013-01",
+	"promedio_butano_80_propano_20_": 0.6899,
+	"flete": 0.0369,
+	"brent_dated": 0.6187}
+,{
+	"fecha": "2012-12",
+	"promedio_butano_80_propano_20_": 0.7427,
+	"flete": 0.0389,
+	"brent_dated": 0.6064}
+,{
+	"fecha": "2012-11",
+	"promedio_butano_80_propano_20_": 0.7858,
+	"flete": 0.0468,
+	"brent_dated": 0.6195}
+,{
+	"fecha": "2012-10",
+	"promedio_butano_80_propano_20_": 0.7313,
+	"flete": 0.0617,
+	"brent_dated": 0.6265}
+,{
+	"fecha": "2012-09",
+	"promedio_butano_80_propano_20_": 0.7182,
+	"flete": 0.0591,
+	"brent_dated": 0.6394}
+,{
+	"fecha": "2012-08",
+	"promedio_butano_80_propano_20_": 0.6033,
+	"flete": 0.0694,
+	"brent_dated": 0.6665}
+,{
+	"fecha": "2012-07",
+	"promedio_butano_80_propano_20_": 0.4835,
+	"flete": 0.0675,
+	"brent_dated": 0.608}
+,{
+	"fecha": "2012-06",
+	"promedio_butano_80_propano_20_": 0.5698,
+	"flete": 0.0655,
+	"brent_dated": 0.5534}
+,{
+	"fecha": "2012-05",
+	"promedio_butano_80_propano_20_": 0.6999,
+	"flete": 0.0633,
+	"brent_dated": 0.628}
+,{
+	"fecha": "2012-04",
+	"promedio_butano_80_propano_20_": 0.7518,
+	"flete": 0.0448,
+	"brent_dated": 0.6633}
+,{
+	"fecha": "2012-03",
+	"promedio_butano_80_propano_20_": 0.8387,
+	"flete": 0.0394,
+	"brent_dated": 0.6915}
+,{
+	"fecha": "2012-02",
+	"promedio_butano_80_propano_20_": 0.7433,
+	"flete": 0.0401,
+	"brent_dated": 0.6585}
+,{
+	"fecha": "2012-01",
+	"promedio_butano_80_propano_20_": 0.6814,
+	"flete": 0.038,
+	"brent_dated": 0.6231}
+,{
+	"fecha": "2011-12",
+	"promedio_butano_80_propano_20_": 0.5961,
+	"flete": 0.0448,
+	"brent_dated": 0.5962}
+,{
+	"fecha": "2011-11",
+	"promedio_butano_80_propano_20_": 0.5887,
+	"flete": 0.0575,
+	"brent_dated": 0.5946}
+,{
+	"fecha": "2011-10",
+	"promedio_butano_80_propano_20_": 0.5927,
+	"flete": 0.0606,
+	"brent_dated": 0.5815}
+,{
+	"fecha": "2011-09",
+	"promedio_butano_80_propano_20_": 0.6327,
+	"flete": 0.0552,
+	"brent_dated": 0.5983}
+,{
+	"fecha": "2011-08",
+	"promedio_butano_80_propano_20_": 0.6182,
+	"flete": 0.0516,
+	"brent_dated": 0.5609}
+,{
+	"fecha": "2011-07",
+	"promedio_butano_80_propano_20_": 0.5823,
+	"flete": 0.0442,
+	"brent_dated": 0.5968}
+,{
+	"fecha": "2011-06",
+	"promedio_butano_80_propano_20_": 0.624,
+	"flete": 0.0341,
+	"brent_dated": 0.5773}
+,{
+	"fecha": "2011-05",
+	"promedio_butano_80_propano_20_": 0.6946,
+	"flete": 0.0369,
+	"brent_dated": 0.5842}
+,{
+	"fecha": "2011-04",
+	"promedio_butano_80_propano_20_": 0.632,
+	"flete": 0.0416,
+	"brent_dated": 0.6243}
+,{
+	"fecha": "2011-03",
+	"promedio_butano_80_propano_20_": 0.612,
+	"flete": 0.0414,
+	"brent_dated": 0.5962}
+,{
+	"fecha": "2011-02",
+	"promedio_butano_80_propano_20_": 0.5935,
+	"flete": 0.0366,
+	"brent_dated": 0.5537}
+,{
+	"fecha": "2011-01",
+	"promedio_butano_80_propano_20_": 0.6711,
+	"flete": 0.0374,
+	"brent_dated": 0.5253}
+,{
+	"fecha": "2010-12",
+	"promedio_butano_80_propano_20_": 0.7225,
+	"flete": 0.0401,
+	"brent_dated": 0.5042}
+,{
+	"fecha": "2010-11",
+	"promedio_butano_80_propano_20_": 0.5895,
+	"flete": 0.041,
+	"brent_dated": 0.4549}
+,{
+	"fecha": "2010-10",
+	"promedio_butano_80_propano_20_": 0.4973,
+	"flete": 0.0353,
+	"brent_dated": 0.4336}
+,{
+	"fecha": "2010-09",
+	"promedio_butano_80_propano_20_": 0.4935,
+	"flete": 0.0352,
+	"brent_dated": 0.4336}
+,{
+	"fecha": "2010-08",
+	"promedio_butano_80_propano_20_": 0.4593,
+	"flete": 0.0357,
+	"brent_dated": 0.4353}
+,{
+	"fecha": "2010-07",
+	"promedio_butano_80_propano_20_": 0.4875,
+	"flete": 0.0384,
+	"brent_dated": 0.4314}
+,{
+	"fecha": "2010-06",
+	"promedio_butano_80_propano_20_": 0.5102,
+	"flete": 0.041,
+	"brent_dated": 0.4465}
+,{
+	"fecha": "2010-05",
+	"promedio_butano_80_propano_20_": 0.555,
+	"flete": 0.0326,
+	"brent_dated": 0.438}
+,{
+	"fecha": "2010-04",
+	"promedio_butano_80_propano_20_": 0.516,
+	"flete": 0.0239,
+	"brent_dated": 0.4602}
+,{
+	"fecha": "2010-03",
+	"promedio_butano_80_propano_20_": 0.5114,
+	"flete": 0.0214,
+	"brent_dated": 0.4235}
+,{
+	"fecha": "2010-02",
+	"promedio_butano_80_propano_20_": 0.5337,
+	"flete": 0.0205,
+	"brent_dated": 0.3919}
+,{
+	"fecha": "2010-01",
+	"promedio_butano_80_propano_20_": 0.4918,
+	"flete": 0.021,
+	"brent_dated": 0.3892}
+,{
+	"fecha": "2009-12",
+	"promedio_butano_80_propano_20_": 0.4694,
+	"flete": 0.0205,
+	"brent_dated": 0.3702}
+,{
+	"fecha": "2009-11",
+	"promedio_butano_80_propano_20_": 0.4294,
+	"flete": 0.0201,
+	"brent_dated": 0.3743}
+,{
+	"fecha": "2009-10",
+	"promedio_butano_80_propano_20_": 0.3777,
+	"flete": 0.0297,
+	"brent_dated": 0.3576}
+,{
+	"fecha": "2009-09",
+	"promedio_butano_80_propano_20_": 0.3918,
+	"flete": 0.0234,
+	"brent_dated": 0.337}
+,{
+	"fecha": "2009-08",
+	"promedio_butano_80_propano_20_": 0.3595,
+	"flete": 0.0224,
+	"brent_dated": 0.3718}
+,{
+	"fecha": "2009-07",
+	"promedio_butano_80_propano_20_": 0.3576,
+	"flete": 0.0227,
+	"brent_dated": 0.334}
+,{
+	"fecha": "2009-06",
+	"promedio_butano_80_propano_20_": 0.3136,
+	"flete": 0.02,
+	"brent_dated": 0.3562}
+,{
+	"fecha": "2009-05",
+	"promedio_butano_80_propano_20_": 0.2641,
+	"flete": 0.0202,
+	"brent_dated": 0.3056}
+,{
+	"fecha": "2009-04",
+	"promedio_butano_80_propano_20_": 0.2787,
+	"flete": 0.0197,
+	"brent_dated": 0.279}
+,{
+	"fecha": "2009-03",
+	"promedio_butano_80_propano_20_": 0.3152,
+	"flete": 0.0211,
+	"brent_dated": 0.2598}
+,{
+	"fecha": "2009-02",
+	"promedio_butano_80_propano_20_": 0.3797,
+	"flete": 0.0207,
+	"brent_dated": 0.2454}
+,{
+	"fecha": "2009-01",
+	"promedio_butano_80_propano_20_": 0.2454,
+	"flete": 0.0208,
+	"brent_dated": 0.2381}
+,{
+	"fecha": "2008-12",
+	"promedio_butano_80_propano_20_": 0.2293,
+	"flete": 0.0216,
+	"brent_dated": 0.2153}
+,{
+	"fecha": "2008-11",
+	"promedio_butano_80_propano_20_": 0.3618,
+	"flete": 0.0244,
+	"brent_dated": 0.3004}
+,{
+	"fecha": "2008-10",
+	"promedio_butano_80_propano_20_": 0.5821,
+	"flete": 0.0285,
+	"brent_dated": 0.3929}
+,{
+	"fecha": "2008-09",
+	"promedio_butano_80_propano_20_": 0.5792,
+	"flete": 0.0404,
+	"brent_dated": 0.4974}
+,{
+	"fecha": "2008-08",
+	"promedio_butano_80_propano_20_": 0.5879,
+	"flete": 0.0551,
+	"brent_dated": 0.5498}
+,{
+	"fecha": "2008-07",
+	"promedio_butano_80_propano_20_": 0.6007,
+	"flete": 0.0587,
+	"brent_dated": 0.6151}
+,{
+	"fecha": "2008-06",
+	"promedio_butano_80_propano_20_": 0.5711,
+	"flete": 0.0531,
+	"brent_dated": 0.6202}
+,{
+	"fecha": "2008-05",
+	"promedio_butano_80_propano_20_": 0.5385,
+	"flete": 0.0466,
+	"brent_dated": 0.5761}
+,{
+	"fecha": "2008-04",
+	"promedio_butano_80_propano_20_": 0.5034,
+	"flete": 0.0343,
+	"brent_dated": 0.5039}
+,{
+	"fecha": "2008-03",
+	"promedio_butano_80_propano_20_": 0.5168,
+	"flete": 0.0283,
+	"brent_dated": 0.4854}
+,{
+	"fecha": "2008-02",
+	"promedio_butano_80_propano_20_": 0.5294,
+	"flete": 0.0298,
+	"brent_dated": 0.4693}
+,{
+	"fecha": "2008-01",
+	"promedio_butano_80_propano_20_": 0.565,
+	"flete": 0.034,
+	"brent_dated": 0.4561}
+,{
+	"fecha": "2007-12",
+	"promedio_butano_80_propano_20_": 0.5867,
+	"flete": 0.0432,
+	"brent_dated": 0.4562}
+,{
+	"fecha": "2007-11",
+	"promedio_butano_80_propano_20_": 0.5174,
+	"flete": 0.0415,
+	"brent_dated": 0.4594}
+,{
+	"fecha": "2007-10",
+	"promedio_butano_80_propano_20_": 0.4788,
+	"flete": 0.0359,
+	"brent_dated": 0.4223}
+,{
+	"fecha": "2007-09",
+	"promedio_butano_80_propano_20_": 0.4275,
+	"flete": 0.0475,
+	"brent_dated": 0.4029}
+,{
+	"fecha": "2007-08",
+	"promedio_butano_80_propano_20_": 0.4388,
+	"flete": 0.0396,
+	"brent_dated": 0.3782}
+,{
+	"fecha": "2007-07",
+	"promedio_butano_80_propano_20_": 0.4176,
+	"flete": 0.0394,
+	"brent_dated": 0.4089}
+,{
+	"fecha": "2007-06",
+	"promedio_butano_80_propano_20_": 0.4388,
+	"flete": 0.0395,
+	"brent_dated": 0.3883}
+,{
+	"fecha": "2007-05",
+	"promedio_butano_80_propano_20_": 0.4025,
+	"flete": 0.0363,
+	"brent_dated": 0.3632}
+,{
+	"fecha": "2007-04",
+	"promedio_butano_80_propano_20_": 0.3967,
+	"flete": 0.0315,
+	"brent_dated": 0.3641}
+,{
+	"fecha": "2007-03",
+	"promedio_butano_80_propano_20_": 0.3828,
+	"flete": 0.0287,
+	"brent_dated": 0.3418}
+,{
+	"fecha": "2007-02",
+	"promedio_butano_80_propano_20_": 0.3748,
+	"flete": 0.0249,
+	"brent_dated": 0.3199}
+,{
+	"fecha": "2007-01",
+	"promedio_butano_80_propano_20_": 0.3858,
+	"flete": 0.0265,
+	"brent_dated": 0.3021}
+,{
+	"fecha": "2006-12",
+	"promedio_butano_80_propano_20_": 0.3648,
+	"flete": 0.031,
+	"brent_dated": 0.3436}
+,{
+	"fecha": "2006-11",
+	"promedio_butano_80_propano_20_": 0.3707,
+	"flete": 0.0365,
+	"brent_dated": 0.3331}
+,{
+	"fecha": "2006-10",
+	"promedio_butano_80_propano_20_": 0.3796,
+	"flete": 0.0333,
+	"brent_dated": 0.3338}
+,{
+	"fecha": "2006-09",
+	"promedio_butano_80_propano_20_": 0.4322,
+	"flete": 0.0452,
+	"brent_dated": 0.3531}
+,{
+	"fecha": "2006-08",
+	"promedio_butano_80_propano_20_": 0.4202,
+	"flete": 0.055,
+	"brent_dated": 0.4157}
+,{
+	"fecha": "2006-07",
+	"promedio_butano_80_propano_20_": 0.4107,
+	"flete": 0.0611,
+	"brent_dated": 0.423}
+,{
+	"fecha": "2006-06",
+	"promedio_butano_80_propano_20_": 0.3775,
+	"flete": 0.0573,
+	"brent_dated": 0.3955}
+,{
+	"fecha": "2006-05",
+	"promedio_butano_80_propano_20_": 0.3679,
+	"flete": 0.0489,
+	"brent_dated": 0.3983}
+,{
+	"fecha": "2006-04",
+	"promedio_butano_80_propano_20_": 0.3645,
+	"flete": 0.0428,
+	"brent_dated": 0.4172}
+,{
+	"fecha": "2006-03",
+	"promedio_butano_80_propano_20_": 0.4247,
+	"flete": 0.0395,
+	"brent_dated": 0.3762}
+,{
+	"fecha": "2006-02",
+	"promedio_butano_80_propano_20_": 0.5068,
+	"flete": 0.0482,
+	"brent_dated": 0.3668}
+,{
+	"fecha": "2006-01",
+	"promedio_butano_80_propano_20_": 0.4645,
+	"flete": 0.0475,
+	"brent_dated": 0.3781}
+,{
+	"fecha": "2005-12",
+	"promedio_butano_80_propano_20_": 0.4303,
+	"flete": 0.0401,
+	"brent_dated": 0.3495}
+,{
+	"fecha": "2005-11",
+	"promedio_butano_80_propano_20_": 0.4688,
+	"flete": 0.0403,
+	"brent_dated": 0.341}
+,{
+	"fecha": "2005-10",
+	"promedio_butano_80_propano_20_": 0.4508,
+	"flete": 0.0541,
+	"brent_dated": 0.3553}
+,{
+	"fecha": "2005-09",
+	"promedio_butano_80_propano_20_": 0.3885,
+	"flete": 0.053,
+	"brent_dated": 0.3738}
+,{
+	"fecha": "2005-08",
+	"promedio_butano_80_propano_20_": 0.3299,
+	"flete": 0.0386,
+	"brent_dated": 0.3799}
+,{
+	"fecha": "2005-07",
+	"promedio_butano_80_propano_20_": 0.3322,
+	"flete": 0.0332,
+	"brent_dated": 0.3484}
+,{
+	"fecha": "2005-06",
+	"promedio_butano_80_propano_20_": 0.311,
+	"flete": 0.0308,
+	"brent_dated": 0.3256}
+,{
+	"fecha": "2005-05",
+	"promedio_butano_80_propano_20_": 0.3107,
+	"flete": 0.0295,
+	"brent_dated": 0.2789}
+,{
+	"fecha": "2005-04",
+	"promedio_butano_80_propano_20_": 0.3176,
+	"flete": 0.0332,
+	"brent_dated": 0.2917}
+,{
+	"fecha": "2005-03",
+	"promedio_butano_80_propano_20_": 0.2985,
+	"flete": 0.0326,
+	"brent_dated": 0.2918}
+,{
+	"fecha": "2005-02",
+	"promedio_butano_80_propano_20_": 0.2809,
+	"flete": 0.0346,
+	"brent_dated": 0.2539}
+,{
+	"fecha": "2005-01",
+	"promedio_butano_80_propano_20_": 0.2787,
+	"flete": 0.0419,
+	"brent_dated": 0.2455}
+,{
+	"fecha": "2004-12",
+	"promedio_butano_80_propano_20_": 0.3255,
+	"flete": 0.041,
+	"brent_dated": 0.2147}
+,{
+	"fecha": "2004-11",
+	"promedio_butano_80_propano_20_": 0.3645,
+	"flete": 0.0462,
+	"brent_dated": 0.2402}
+,{
+	"fecha": "2004-10",
+	"promedio_butano_80_propano_20_": 0.3343,
+	"flete": 0.0521,
+	"brent_dated": 0.2895}
+,{
+	"fecha": "2004-09",
+	"promedio_butano_80_propano_20_": 0.3178,
+	"flete": 0.0409,
+	"brent_dated": 0.2579}
+,{
+	"fecha": "2004-08",
+	"promedio_butano_80_propano_20_": 0.2818,
+	"flete": 0.039,
+	"brent_dated": 0.2574}
+,{
+	"fecha": "2004-07",
+	"promedio_butano_80_propano_20_": 0.2564,
+	"flete": 0.0298,
+	"brent_dated": 0.2276}
+,{
+	"fecha": "2004-06",
+	"promedio_butano_80_propano_20_": 0.2747,
+	"flete": 0.0284,
+	"brent_dated": 0.2103}
+,{
+	"fecha": "2004-05",
+	"promedio_butano_80_propano_20_": 0.2537,
+	"flete": 0.0279,
+	"brent_dated": 0.229}
+,{
+	"fecha": "2004-04",
+	"promedio_butano_80_propano_20_": 0.2427,
+	"flete": 0.028,
+	"brent_dated": 0.2022}
+,{
+	"fecha": "2004-03",
+	"promedio_butano_80_propano_20_": 0.2276,
+	"flete": 0.0273,
+	"brent_dated": 0.2007}
+,{
+	"fecha": "2004-02",
+	"promedio_butano_80_propano_20_": 0.248,
+	"flete": 0.0265,
+	"brent_dated": 0.1776}
+,{
+	"fecha": "2004-01",
+	"promedio_butano_80_propano_20_": 0.2459,
+	"flete": 0.0266,
+	"brent_dated": 0.18}
+,{
+	"fecha": "2003-12",
+	"promedio_butano_80_propano_20_": 0.2478,
+	"flete": 0.0261,
+	"brent_dated": 0.1769}
+,{
+	"fecha": "2003-11",
+	"promedio_butano_80_propano_20_": 0.2357,
+	"flete": 0.0256,
+	"brent_dated": 0.1788}
+,{
+	"fecha": "2003-10",
+	"promedio_butano_80_propano_20_": 0.2121,
+	"flete": 0.0227,
+	"brent_dated": 0.1847}
+,{
+	"fecha": "2003-09",
+	"promedio_butano_80_propano_20_": 0.2248,
+	"flete": 0.0236,
+	"brent_dated": 0.1757}
+,{
+	"fecha": "2003-08",
+	"promedio_butano_80_propano_20_": 0.2209,
+	"flete": 0.0292,
+	"brent_dated": 0.1948}
+,{
+	"fecha": "2003-07",
+	"promedio_butano_80_propano_20_": 0.2105,
+	"flete": 0.0286,
+	"brent_dated": 0.1816}
+,{
+	"fecha": "2003-06",
+	"promedio_butano_80_propano_20_": 0.1811,
+	"flete": 0.033,
+	"brent_dated": 0.1718}
+,{
+	"fecha": "2003-05",
+	"promedio_butano_80_propano_20_": 0.1692,
+	"flete": 0.0311,
+	"brent_dated": 0.1621}
+,{
+	"fecha": "2003-04",
+	"promedio_butano_80_propano_20_": 0.2427,
+	"flete": 0.0313,
+	"brent_dated": 0.167}
+,{
+	"fecha": "2003-03",
+	"promedio_butano_80_propano_20_": 0.326,
+	"flete": 0.0296,
+	"brent_dated": 0.2058}
+,{
+	"fecha": "2003-02",
+	"promedio_butano_80_propano_20_": 0.3139,
+	"flete": 0.0297,
+	"brent_dated": 0.2209}
+,{
+	"fecha": "2003-01",
+	"promedio_butano_80_propano_20_": 0.2967,
+	"flete": 0.033,
+	"brent_dated": 0.2145}
+,{
+	"fecha": "2002-12",
+	"promedio_butano_80_propano_20_": 0.2973,
+	"flete": 0.03,
+	"brent_dated": 0.206}
+,{
+	"fecha": "2002-11",
+	"promedio_butano_80_propano_20_": 0.2966,
+	"flete": 0.0325,
+	"brent_dated": 0.1753}
+,{
+	"fecha": "2002-10",
+	"promedio_butano_80_propano_20_": 0.2866,
+	"flete": 0.0301,
+	"brent_dated": 0.2047}
+,{
+	"fecha": "2002-09",
+	"promedio_butano_80_propano_20_": 0.2479,
+	"flete": 0.028,
+	"brent_dated": 0.2107}
+,{
+	"fecha": "2002-08",
+	"promedio_butano_80_propano_20_": 0.2139,
+	"flete": 0.0281,
+	"brent_dated": 0.1986}
+,{
+	"fecha": "2002-07",
+	"promedio_butano_80_propano_20_": 0.197,
+	"flete": 0.0257,
+	"brent_dated": 0.1895}
+,{
+	"fecha": "2002-06",
+	"promedio_butano_80_propano_20_": 0.2024,
+	"flete": 0.0256,
+	"brent_dated": 0.184}
+,{
+	"fecha": "2002-05",
+	"promedio_butano_80_propano_20_": 0.2248,
+	"flete": 0.0267,
+	"brent_dated": 0.2011}
+,{
+	"fecha": "2002-04",
+	"promedio_butano_80_propano_20_": 0.2208,
+	"flete": 0.0299,
+	"brent_dated": 0.211}
+,{
+	"fecha": "2002-03",
+	"promedio_butano_80_propano_20_": 0.199,
+	"flete": 0.0303,
+	"brent_dated": 0.1981}
+,{
+	"fecha": "2002-02",
+	"promedio_butano_80_propano_20_": 0.1998,
+	"flete": 0.0282,
+	"brent_dated": 0.1693}
+,{
+	"fecha": "2002-01",
+	"promedio_butano_80_propano_20_": 0.2168,
+	"flete": 0.0277,
+	"brent_dated": 0.1605}
+,{
+	"fecha": "2001-12",
+	"promedio_butano_80_propano_20_": 0.1957,
+	"flete": 0.0275,
+	"brent_dated": 0.1525}
+,{
+	"fecha": "2001-11",
+	"promedio_butano_80_propano_20_": 0.2369,
+	"flete": 0.0276,
+	"brent_dated": 0.1556}
+,{
+	"fecha": "2001-10",
+	"promedio_butano_80_propano_20_": 0.2401,
+	"flete": 0.0271,
+	"brent_dated": 0.1647}
+,{
+	"fecha": "2001-09",
+	"promedio_butano_80_propano_20_": 0.2261,
+	"flete": 0.0291,
+	"brent_dated": 0.2044}
+,{
+	"fecha": "2001-08",
+	"promedio_butano_80_propano_20_": 0.2117,
+	"flete": 0.0322,
+	"brent_dated": 0.2082}
+,{
+	"fecha": "2001-07",
+	"promedio_butano_80_propano_20_": 0.2462,
+	"flete": 0.0366,
+	"brent_dated": 0.208}
+,{
+	"fecha": "2001-06",
+	"promedio_butano_80_propano_20_": 0.2796,
+	"flete": 0.0393,
+	"brent_dated": 0.2376}
+,{
+	"fecha": "2001-05",
+	"promedio_butano_80_propano_20_": 0.2607,
+	"flete": 0.0423,
+	"brent_dated": 0.2377}
+,{
+	"fecha": "2001-04",
+	"promedio_butano_80_propano_20_": 0.2636,
+	"flete": 0.0432,
+	"brent_dated": 0.2099}
+,{
+	"fecha": "2001-03",
+	"promedio_butano_80_propano_20_": 0.3004,
+	"flete": 0.044,
+	"brent_dated": 0.1956}
+,{
+	"fecha": "2001-02",
+	"promedio_butano_80_propano_20_": 0.3152,
+	"flete": 0.0488,
+	"brent_dated": 0.2169}
+,{
+	"fecha": "2001-01",
+	"promedio_butano_80_propano_20_": 0.3446,
+	"flete": 0.0458,
+	"brent_dated": 0.1982}
+,{
+	"fecha": "2000-12",
+	"promedio_butano_80_propano_20_": 0.3543,
+	"flete": 0.0474,
+	"brent_dated": 0.2027}
+,{
+	"fecha": "2000-11",
+	"promedio_butano_80_propano_20_": 0.3966,
+	"flete": 0.0496,
+	"brent_dated": 0.2771}
+,{
+	"fecha": "2000-10",
+	"promedio_butano_80_propano_20_": 0.3859,
+	"flete": 0.0497,
+	"brent_dated": 0.2632}
+,{
+	"fecha": "2000-09",
+	"promedio_butano_80_propano_20_": 0.342,
+	"flete": 0.0487,
+	"brent_dated": 0.2733}
+,{
+	"fecha": "2000-08",
+	"promedio_butano_80_propano_20_": 0.3097,
+	"flete": 0.0492,
+	"brent_dated": 0.2425}
+,{
+	"fecha": "2000-07",
+	"promedio_butano_80_propano_20_": 0.2976,
+	"flete": 0.0474,
+	"brent_dated": 0.2208}
+,{
+	"fecha": "2000-06",
+	"promedio_butano_80_propano_20_": 0.2694,
+	"flete": 0.0469,
+	"brent_dated": 0.2287}
+,{
+	"fecha": "2000-05",
+	"promedio_butano_80_propano_20_": 0.2471,
+	"flete": 0.0469,
+	"brent_dated": 0.2229}
+,{
+	"fecha": "2000-04",
+	"promedio_butano_80_propano_20_": 0.2896,
+	"flete": 0.0438,
+	"brent_dated": 0.1746}
+,{
+	"fecha": "2000-03",
+	"promedio_butano_80_propano_20_": 0.3275,
+	"flete": 0.0368,
+	"brent_dated": 0.2059}
+,{
+	"fecha": "2000-02",
+	"promedio_butano_80_propano_20_": 0.2834,
+	"flete": 0.0483,
+	"brent_dated": 0.2066}
+,{
+	"fecha": "2000-01",
+	"promedio_butano_80_propano_20_": 0.257,
+	"flete": 0.0419,
+	"brent_dated": 0.1832}
+,{
+	"fecha": "1999-12",
+	"promedio_butano_80_propano_20_": 0.2198,
+	"flete": 0.0396,
+	"brent_dated": 0.1839}
+,{
+	"fecha": "1999-11",
+	"promedio_butano_80_propano_20_": 0.2141,
+	"flete": 0.0363,
+	"brent_dated": 0.1739}
+,{
+	"fecha": "1999-10",
+	"promedio_butano_80_propano_20_": 0.2254,
+	"flete": 0.0313,
+	"brent_dated": 0.1497}
+,{
+	"fecha": "1999-09",
+	"promedio_butano_80_propano_20_": 0.2394,
+	"flete": 0.0319,
+	"brent_dated": 0.1559}
+,{
+	"fecha": "1999-08",
+	"promedio_butano_80_propano_20_": 0.2293,
+	"flete": 0.0316,
+	"brent_dated": 0.1395}
+,{
+	"fecha": "1999-07",
+	"promedio_butano_80_propano_20_": 0.1643,
+	"flete": 0.0324,
+	"brent_dated": 0.1339}
+,{
+	"fecha": "1999-06",
+	"promedio_butano_80_propano_20_": 0.1323,
+	"flete": 0.0279,
+	"brent_dated": 0.111}
+,{
+	"fecha": "1999-05",
+	"promedio_butano_80_propano_20_": 0.1216,
+	"flete": 0.0264,
+	"brent_dated": 0.1047}
+,{
+	"fecha": "1999-04",
+	"promedio_butano_80_propano_20_": 0.11,
+	"flete": 0.0243,
+	"brent_dated": 0.104}
+,{
+	"fecha": "1999-03",
+	"promedio_butano_80_propano_20_": 0.0973,
+	"flete": 0.0253,
+	"brent_dated": 0.0837}
+,{
+	"fecha": "1999-02",
+	"promedio_butano_80_propano_20_": 0.0973,
+	"flete": 0.0245,
+	"brent_dated": 0.0665}
+,{
+	"fecha": "1999-01",
+	"promedio_butano_80_propano_20_": 0.1218,
+	"flete": 0.025,
+	"brent_dated": 0.0696}
+,{
+	"fecha": "1998-12",
+	"promedio_butano_80_propano_20_": 0.1621,
+	"flete": 0.0235,
+	"brent_dated": 0.0614}
+,{
+	"fecha": "1998-11",
+	"promedio_butano_80_propano_20_": 0.1557,
+	"flete": 0.0258,
+	"brent_dated": 0.0686}
+,{
+	"fecha": "1998-10",
+	"promedio_butano_80_propano_20_": 0.122,
+	"flete": 0.0263,
+	"brent_dated": 0.077}
+,{
+	"fecha": "1998-09",
+	"promedio_butano_80_propano_20_": 0.0933,
+	"flete": 0.026,
+	"brent_dated": 0.0846}
+,{
+	"fecha": "1998-08",
+	"promedio_butano_80_propano_20_": 0.0935,
+	"flete": 0.0273,
+	"brent_dated": 0.0793}
+,{
+	"fecha": "1998-07",
+	"promedio_butano_80_propano_20_": 0.0926,
+	"flete": 0.0275,
+	"brent_dated": 0.0804}
+,{
+	"fecha": "1998-06",
+	"promedio_butano_80_propano_20_": 0.0985,
+	"flete": 0.0288,
+	"brent_dated": 0.0802}
+,{
+	"fecha": "1998-05",
+	"promedio_butano_80_propano_20_": 0.1062,
+	"flete": 0.0285,
+	"brent_dated": 0.0952}
+,{
+	"fecha": "1998-04",
+	"promedio_butano_80_propano_20_": 0.1068,
+	"flete": 0.0291,
+	"brent_dated": 0.0904}
+,{
+	"fecha": "1998-03",
+	"promedio_butano_80_propano_20_": 0.1199,
+	"flete": 0.0293,
+	"brent_dated": 0.0884}
+,{
+	"fecha": "1998-02",
+	"promedio_butano_80_propano_20_": 0.1255,
+	"flete": 0.03,
+	"brent_dated": 0.0938}
+,{
+	"fecha": "1998-01",
+	"promedio_butano_80_propano_20_": 0.154,
+	"flete": 0.03,
+	"brent_dated": 0.1021}
+,{
+	"fecha": "1997-12",
+	"promedio_butano_80_propano_20_": 0.1888,
+	"flete": 0.0329,
+	"brent_dated": 0.1123}
+,{
+	"fecha": "1997-11",
+	"promedio_butano_80_propano_20_": 0.1892,
+	"flete": 0.0387,
+	"brent_dated": 0.1225}
+,{
+	"fecha": "1997-10",
+	"promedio_butano_80_propano_20_": 0.1859,
+	"flete": 0.0392,
+	"brent_dated": 0.1289}
+,{
+	"fecha": "1997-09",
+	"promedio_butano_80_propano_20_": 0.1736,
+	"flete": 0.0381,
+	"brent_dated": 0.1217}
+,{
+	"fecha": "1997-08",
+	"promedio_butano_80_propano_20_": 0.1686,
+	"flete": 0.0355,
+	"brent_dated": 0.1268}
+,{
+	"fecha": "1997-07",
+	"promedio_butano_80_propano_20_": 0.1576,
+	"flete": 0.0344,
+	"brent_dated": 0.1222}
+,{
+	"fecha": "1997-06",
+	"promedio_butano_80_propano_20_": 0.1535,
+	"flete": 0.0333,
+	"brent_dated": 0.1122}
+,{
+	"fecha": "1997-05",
+	"promedio_butano_80_propano_20_": 0.1535,
+	"flete": 0.0294,
+	"brent_dated": 0.1202}
+,{
+	"fecha": "1997-04",
+	"promedio_butano_80_propano_20_": 0.171,
+	"flete": 0.0278,
+	"brent_dated": 0.1102}
+,{
+	"fecha": "1997-03",
+	"promedio_butano_80_propano_20_": 0.2061,
+	"flete": 0.0272,
+	"brent_dated": 0.1199}
+,{
+	"fecha": "1997-02",
+	"promedio_butano_80_propano_20_": 0.2439,
+	"flete": 0.0319,
+	"brent_dated": 0.1292}
+,{
+	"fecha": "1997-01",
+	"promedio_butano_80_propano_20_": 0.2516,
+	"flete": 0.0352,
+	"brent_dated": 0.1384}
+]
